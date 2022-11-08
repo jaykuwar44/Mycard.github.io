@@ -1,0 +1,73 @@
+.box{
+    height: 154px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.14);
+    border-radius: 8px;
+}
+.label1{
+    font-family: 'Akkurat-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+.id{
+    background: #F6F6F6;
+    border: 1px solid #EAEAEA;
+    border-radius: 180px;
+
+    font-family: 'Akkurat'; 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000000;
+}
+.label2{
+    background: #F6F6F6;
+    border: 1px solid #EAEAEA;
+    border-radius: 180px;
+
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+    color: #616162;
+}
+
+input{
+    padding: 6px 60px;
+    border: 1px solid #EB1935;
+    border-radius: 5px;
+}
+.detail{
+    padding: 6px 30px;
+    border: none;
+    background: #EB1935;
+    border-radius: 3px;
+
+    font-family: 'Akkurat-Bold';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.lastText{
+    font-family: 'Akkurat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 14px;
+    color: #616162;
+}
+
+.card{
+    background: #FFFFFF;
+    box-shadow: 0px 5px 18px rgba(0, 0, 0, 0.14);
+    border-radius: 8px;
+}
